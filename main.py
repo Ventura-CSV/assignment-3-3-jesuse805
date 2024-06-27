@@ -4,7 +4,7 @@ def main():
     ########################################
     Code Your Program here
     """
-    
+    result = False
     
     
     
